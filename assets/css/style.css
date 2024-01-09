@@ -1013,4 +1013,11 @@ button {
   .contact_inputs {
     grid-template-columns: repeat(2, 1fr);
   }
+
+}
+
+.about_container.container.grid img {
+  height: 300px;
+  object-fit: cover;
+  object-position: top;
 }
